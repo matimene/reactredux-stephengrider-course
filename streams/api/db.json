@@ -1,0 +1,39 @@
+{
+  "streams": [
+    {
+      "title": "asd",
+      "description": "d",
+      "id": 1
+    },
+    {
+      "title": "I created a pepito",
+      "description": "Jojojojoooojó",
+      "userId": "113242753475016433987",
+      "id": 2
+    },
+    {
+      "title": "Creating a stream",
+      "description": "Trying to",
+      "userId": "113242753475016433987",
+      "id": 3
+    },
+    {
+      "title": "Creating a stream",
+      "description": "Trying to",
+      "userId": "113242753475016433987",
+      "id": 4
+    },
+    {
+      "title": "Testing reuse",
+      "description": "Whatchme do it",
+      "userId": "113242753475016433987",
+      "id": 5
+    },
+    {
+      "title": "Jelou moco",
+      "description": "Hello motto",
+      "userId": "113242753475016433987",
+      "id": 8
+    }
+  ]
+}
